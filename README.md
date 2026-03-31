@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarsGray
-- 👀 I’m interested in cybersecurity and data science
+- 👀 I’m interested in data science and computational social science
 - 🌱 I’m currently learning computer science at Morehouse College
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have lived in six total states.
