@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarsGray
 - 👀 I’m interested in data science and computational social science
-- 🌱 I’m currently learning computer science at Morehouse College
+- 🌱 I've graduated Morehouse College with a bachelor's in computer science
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have lived in six total states.
 <!---
