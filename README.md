@@ -14,7 +14,7 @@
 ## Things I am Reading 📖:
 - Kagurabachi by Takeru Hokazono ⚔️
 - Choujin X by Sui Ishida 🐦‍⬛
-- The Devils by Joe Abrecombie 🧛
+- The Devils by Joe Abercombie 🧛
 
 ## Games I am Playing 🎮:
 - Marvel Rivals 🦸
